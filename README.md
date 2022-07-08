@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Treinando mais sobre Flutter
 
-This project is a starting point for a Flutter application.
+Consumindo um Api
+Tela Splash Screen Nativa
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![apiEsplashgif](https://user-images.githubusercontent.com/67665152/177904660-b2874929-9cac-472c-8a65-865df67a074f.gif)
